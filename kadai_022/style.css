@@ -64,8 +64,8 @@ footer{
   text-align: center;
 }
 
-a:link {
-  color: rgb(255, 255, 255)
+a {
+  color: rgb(255, 255, 255);
 }
 a:visited {
   color: rgb(193, 234, 251);
